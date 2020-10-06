@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Documents/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/ews-java-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/OneDrive - VMware, Inc/VMwareCorp/Desktop/Me/jar_files/joda-time-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Downloads/__MACOSX/jjwt-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Downloads/__MACOSX/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Downloads/__MACOSX/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Downloads/__MACOSX/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bpadala/Downloads/__MACOSX/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
